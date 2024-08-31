@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- manyanagpal2019@gmail.com
-- 😄 Pronouns: she/ger
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I can write really well 😀
 
 <!---
